@@ -14,7 +14,6 @@ public class Ejercicio01 {
         int num2;
         int num3;
         int num4; 
-        String mensajeFinal = "";
 
         for (num1 = 30; num1 >= 10; num1--) { //
             num2 = num1 + num1;
