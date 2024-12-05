@@ -8,7 +8,7 @@ package paquete04;
  *
  * @author utpl
  */
-public class ejercicio01 {
+public class Ejercicio01 {
      public static void main(String[] args) {
         int num1;
         int num2;
@@ -25,7 +25,7 @@ public class ejercicio01 {
             
 
                 
-        } // termina for 01
+        }
      }
 }
         
